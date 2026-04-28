@@ -1,0 +1,5 @@
+# Time
+
+```
+python main.py
+```
